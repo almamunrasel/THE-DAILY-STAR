@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h1>Let's build dragon news</h1>
+    <h1 className='text-6xl'>Let's build dragon news</h1>
      
     </>
   )
